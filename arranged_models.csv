@@ -1,0 +1,14 @@
+Model,Rsquared,FMI
+~ mass ,0.069,
+~ mass + temperature,0.08,
+~ mass + forearm + temperature (no phylogeny),0.16,0.015
+~ mass + forearm + temperature + population size + cluster + touch,0.17,0.006
+~ mass + forearm + temperature + continent,0.19,0.069
+~ mass + forearm + temperature + touch + cluster (no phylogeny),0.19,-0.065
+~ mass + forearm + temperature + endemism,0.21,NIL
+~ mass + forearm,0.22,0.07
+~ mass + forearm + temperature + touch + cluster,0.25,0.023
+~ mass + forearm + temperature + cluster,0.26,0.051
+~ mass + forearm + temperature (BM),0.27,0.058
+~ mass + forearm + temperature + group,0.42,0.162
+~ mass + forearm + temperature + group (no phylogeny),0.53,0.437
